@@ -1,0 +1,16 @@
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+body {
+  background-image: url('https://i.pinimg.com/originals/a3/95/20/a395200b3f7dcf0a51b3967f98b020de.jpg');
+}
+col, row{
+	border: 1px solid black
+}
